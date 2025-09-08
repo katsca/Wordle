@@ -9,7 +9,6 @@ class Game:
         
         #initialize a solution
         self.__solution = self.__generateSolution()
-        print(self.__solution)
         
         #Max number of guesses
         self.MAX_GUESSES = 6
