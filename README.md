@@ -45,7 +45,12 @@ To run the game
 * Upon restarting a randomly new solution is generated from a list of valid five-letter words
 
 ### Images of the game
+LIGHT VERSION OF THE GAME:
+![alt text](https://github.com/katsca/Wordle/blob/main/assets/images/wordle_light.png?raw=true)
 
+
+DARK VERSION OF THE GAME:
+![alt text](https://github.com/katsca/Wordle/blob/main/assets/images/wordle_dark.png?raw=true)
 
 
 
